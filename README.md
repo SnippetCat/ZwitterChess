@@ -1,2 +1,2 @@
 # ZwitterChess
-A game where there are two chess boards with each piece cloned onto the two boards. The two boards are separated by a double wall of immobile half-black, half-white pawns.
+A game where there are two chess boards with each piece cloned onto the two boards. For example, there are two kings, two queens, four bishops for each side. The two boards are separated by a double wall of immobile half-black, half-white pawns which serves as a barrier. The wall can only be broken from the right side by the right board's white pieces and by the left side by the left board's black pieces. Victory is achieved when a side checkmates his opponent's king.
